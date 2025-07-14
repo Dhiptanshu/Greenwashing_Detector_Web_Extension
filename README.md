@@ -1,0 +1,1 @@
+# Greenwashing_Detector_Web_Extension
